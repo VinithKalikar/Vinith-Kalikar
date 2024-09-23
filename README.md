@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning **Networking and Forensics**
 
 - 📫 How to reach me **kalikarvinith291@gmail.com**
+- <img src="https://tryhackme-badges.s3.amazonaws.com/Vinithkalikar.png" alt="TryHackMe">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
